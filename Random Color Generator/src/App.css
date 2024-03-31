@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.buttons button {
+  padding: 5px;
+}
+
+.buttons {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
